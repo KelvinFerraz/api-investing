@@ -7,11 +7,18 @@ This API was create to return from library investpy using Flask framework.
 
 Create a enviroment to your dependences:
 
+
+### create enviroment
+```
+python3 -m venv env && source env/bin/activate 
+```
+
+### install dependences
 ```
 pip install -r requeriments.txt
 ```
 
-Run the api investing:
+### run api
 ```
 python api.py
 ```
