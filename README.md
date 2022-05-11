@@ -5,10 +5,10 @@ This API was create to return from library investpy using Flask framework.
 
 ## How to start?
 
-Create a enviroment to your dependences:
+Create a environment to your dependences:
 
 
-### create enviroment
+### create environment
 ```
 python3 -m venv env && source env/bin/activate 
 ```
